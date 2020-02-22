@@ -37,7 +37,7 @@ Disadvantages: Script will be complicated to cover all kind of users selects; Fi
 * Identify criterias, add it to typeRequested=[]. eg: typeRequested = [upper, lower, special]
 * Random pick from types, typeRequested[random number]. eg: typeRequested[0] = upper
 * Random pick within type above. eg: upper[4]=D
-* Repeat the stapes above to generate password
+* Repeat the steps above to generate password
 * Validate the password, regenerate if not qualified
 
 Advantages: Script is much simpler than the second one. Probability of not meeting critetia is much lower than first one. 
