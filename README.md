@@ -9,6 +9,7 @@ Users select password lenth (8-128) and character types to include in (lowercase
 *  Need to identify character types requested first and then find a way to choose from them.
 
 2. Validate if password generated meets criteria. 
+
 For example, if users request all character types and length of 8, the probability of getting a password that meets only 3 criteria is pretty high. 
 * 10 numbers, 52 alphabet characters, 33 special charecters. it is not suprising if numbers is not included in a 8 charecter password. probability = (85/95)^8 = 0.41
 
