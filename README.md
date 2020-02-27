@@ -17,7 +17,7 @@ For example, if users request all character types and length of 8, the probabili
 
 
 ## Methods might work
-### 1. **Create a bank of characters required, random select among, validate, re-select if not qualified.**
+### 1. **Create a bank with characters required, random select among, validate, re-select if not qualified.**
 + Create a Bank = "", add criterias into the bank. eg: Bank = Uppercases + numbers = "ABC...0123.."
 + Randomly pick characters by Bank[random number], generate a password.
 + Validate the password, regenrate a new one if it is not qualified 
@@ -33,7 +33,7 @@ For example, if users request all character types and length of 8, the probabili
 
 -- **Advantages:** Can ensure the criterias are meet.
 
--- **Disadvantages:** Script will be complicated to cover all kind of users selects; Fixed patterns for first couple of words.  
+-- **Disadvantages:** Script will be complicated to cover all kind of users selects; Fixed patterns for first couple of letters.  
 
 
 ### 3. **Randomly choose character type first, and random pick character within the type.(two step randomization)**
