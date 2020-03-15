@@ -51,7 +51,7 @@ For example, if users request all character types and length of 8, the probabili
 ## Final result
 I used the third method above, the best solution I have so far. The test result is up to satisfaction. 
 
-Link to the final website: https://mila-mamat.github.io/homework3-password-generator/index.html
+Link to the final website: https://mila-mamat.github.io/homework3-password-generator/Develop/index.html
 
 
 ## Extra work
