@@ -3,6 +3,9 @@ Create an application that generates a random password based on user-selected cr
 
 Users select password lenth (8-128) and character types to include in (lowercase, uppercase, numeric, and/or special characters)
 
+## Tools
+Javascripts, CSS
+
 
 ## Problems to solve:
 ### 1. Identify criteria inputs. 
